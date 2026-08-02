@@ -1,3 +1,3 @@
 # guitar.info
 
-A website made using Vanilla CSS Framework
+A website made using Vanilla HTML, CSS & JS
